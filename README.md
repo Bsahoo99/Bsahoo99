@@ -13,12 +13,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 🔭 Currently working at Datadated building production RAG systems and real-time voice AI pipelines
-- 🌱 Working at Saayam For All on multi-agent volunteer matching systems (75% reduction in triage time)
-- 💡 Passionate about building intelligent systems that solve real-world problems
-- 🎓 MS in Computer Science from University of Wisconsin-Milwaukee
-- 💼 Open to AI/ML Engineering, Full Stack AI, and Forward-Deployed Engineering roles
-- 🌁 Based in San Francisco, CA
+- 🚀 AI Full Stack Developer specializing in production RAG systems and multi-agent AI
+- 💡 Built systems achieving 90%+ accuracy and 75% efficiency improvements
+- 🔭 Expert in LangGraph, LangChain, OpenAI APIs, and real-time voice AI pipelines
+- 🌱 Currently exploring agentic workflows and advanced LLM integration patterns
+- 🎓 MS Computer Science @ UW-Milwaukee
+- 💼 Seeking Forward-Deployed Engineering and AI/ML Engineering opportunities
 
 
 ## 🧠 My Focus Areas
